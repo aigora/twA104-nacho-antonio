@@ -1,11 +1,12 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Sincronización de varios semáforos en un cruce.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Ignacio de Benito Gómez (i.debenitog@alumnos.upm.es)
+Antonio Casado Hierro (antoniocasadohierro@alumnos.upm.es)
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+El objetivo principal del trabajo es mejorar la circulacion de vehiculos y peatones en un cruce mediante la sincronizacion de los semaforos presentes en el mismo.
